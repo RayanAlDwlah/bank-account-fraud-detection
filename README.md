@@ -39,12 +39,6 @@ The dataset is synthetic but realistic, containing over 1 million samples with e
 
 > The metric Recall@5%FPR was used due to the imbalanced nature of the dataset and the importance of reducing false negatives in fraud detection.
 
-## 📌 Notebooks
-The project is structured in multiple clean steps for reproducibility, including:
-- `1_data_analysis.ipynb`
-- `2_preprocessing_and_feature_selection.ipynb`
-- `3_model_training_and_ensembles.ipynb`
-- `4_evaluation_and_thresholding.ipynb`
 
 ## 🔗 Links
 - 💼 [LinkedIn – Rayan Saleh](https://www.linkedin.com/in/rayan-saleh-b12a3132a/)
